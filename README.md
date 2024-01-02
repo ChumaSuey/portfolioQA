@@ -38,8 +38,8 @@ Examples of my work on my "workshow case"
 **SQL Databases**
 * Can write complex sentences if required.
 
-**Python Fundamentals**
-* 
+**Python**
+* Intermediate knowledge in python focused in Automation and Web scraping.
 
 
 ## Tools
@@ -52,5 +52,19 @@ Examples of my work on my "workshow case"
 
 
 ## Courses and Education
+
+
+### Universidad Centro Occidental 'Lisandro Alvarado'
+* Bachelor of Engineering - BE - Computer Software Engineering (Ingenieria en informatica) (September 2013 - June 2023).
+
+  
+* Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - present).
+
+## Certificates
+
+
+## Examples of my work
+
+
 
 
