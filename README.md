@@ -43,6 +43,7 @@ Examples of my work on my "workshow case"
 
 ## Tools
 * Trello and Notion.
+* Testrails
 * Jira.
 * QATouch.
 * Excel/Spreadsheets (Office in general).
