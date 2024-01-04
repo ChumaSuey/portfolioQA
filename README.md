@@ -56,15 +56,23 @@ Examples of my work on my "workshow case"
 
 ### Universidad Centro Occidental 'Lisandro Alvarado'
 * Bachelor of Engineering - BE - Computer Software Engineering (Ingenieria en informatica) (September 2013 - June 2023).
-
-  
 * Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - present).
 
 ## Certificates
-
+* EF Set C2 English certification : https://www.efset.org/cert/PUY6Wp
+* Testdome certificates:
+  - QA Manual: https://www.testdome.com/certificates/31f19ce57e18484fb680d8e405c5208b
+  - Python: www.testdome.com/certificates/1ac60beccb694d0fa73b0ef69de41c40
 
 ## Examples of my work
 
+Test cases for Aurora team (Made in Spanish) 
+https://drive.google.com/drive/folders/1flXE1eAynGF3LE-kVVvMDGZsK5TcfUct?usp=drive_link
+Web and Mobile component tested.
+
+Test cases for Eurus team (Made in spanish)
+https://drive.google.com/drive/folders/1S0O5spp5Qt733Nu6xPktuTJQWCsudj13?usp=drive_link
+Intranet component tested (web app).
 
 
 
