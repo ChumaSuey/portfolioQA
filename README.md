@@ -63,8 +63,11 @@ Examples of my work on my "workshow case"
 * Testdome certificates:
   - QA Manual: https://www.testdome.com/certificates/31f19ce57e18484fb680d8e405c5208b
   - Python: www.testdome.com/certificates/1ac60beccb694d0fa73b0ef69de41c40
+  - SQL: https://www.testdome.com/certificates/8e8e08d62b95498ca1ab77763dc4bc07
 
 ## Examples of my work
+
+* Test cases
 
 Test cases for Aurora team (Made in Spanish) 
 https://drive.google.com/drive/folders/1flXE1eAynGF3LE-kVVvMDGZsK5TcfUct?usp=drive_link
@@ -73,6 +76,19 @@ Web and Mobile component tested.
 Test cases for Eurus team (Made in spanish)
 https://drive.google.com/drive/folders/1S0O5spp5Qt733Nu6xPktuTJQWCsudj13?usp=drive_link
 Intranet component tested (web app).
+
+Test case for USDQC (USA Doom and Quake community)
+https://docs.google.com/spreadsheets/d/16i7hU1vT-_k6SWPZdEpwHKtkzYj15Tv5rH6sgtSNPS4/edit?usp=sharing
+I playtested every custom level for Quake 2 in the most famous database, i classified them with spreadsheets and got the best for our server.
+
+* Bug report for videogames
+
+Pomu (spanish) (Docs):
+- https://docs.google.com/document/d/1ah_Prl17j3wO49-_1AVPDcb4tTQwFMmbXLumyxH1NXk/edit?usp=sharing
+- https://docs.google.com/document/d/1OdxRHel_w8DOWoy3VyxTxTmNR2t-LqhXe11XwrMPG7s/edit?usp=drive_link
+
+
+
 
 
 
