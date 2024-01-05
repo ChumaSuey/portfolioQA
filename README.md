@@ -79,7 +79,8 @@ Intranet component tested (web app).
 
 Test case for USDQC (USA Doom and Quake community)
 https://docs.google.com/spreadsheets/d/16i7hU1vT-_k6SWPZdEpwHKtkzYj15Tv5rH6sgtSNPS4/edit?usp=sharing
-I playtested every custom level for Quake 2 in the most famous database, i classified them with spreadsheets and got the best for our server.
+
+Playtested every custom level for Quake 2 in the most famous database, i classified them with spreadsheets and got the best for our server.
 
 * Bug report for videogames
 
