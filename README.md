@@ -84,10 +84,22 @@ Playtested every custom level for Quake 2 in the most famous database, i classif
 
 * Bug report for videogames
 
+### Drive reports
+Each folder represents a version and there are some videos in OBS me replicating the bug in spanish and english.
+
+
+Octonata (development paused):
+https://drive.google.com/drive/folders/18MOvRAoH1VX-rseVb5fVrYEnUtqrB3T7?usp=sharing
+
+Return (Game released):
+https://drive.google.com/drive/folders/1nOxU3jOX2xbmGwKmws6OGrxALRn2-D-Y?usp=sharing
+
 Princess Pomu and the five moons (spanish) (Docs):
 - https://docs.google.com/document/d/1ah_Prl17j3wO49-_1AVPDcb4tTQwFMmbXLumyxH1NXk/edit?usp=sharing
 - https://docs.google.com/document/d/1OdxRHel_w8DOWoy3VyxTxTmNR2t-LqhXe11XwrMPG7s/edit?usp=drive_link
 
+
+### Trello
 
 
 
