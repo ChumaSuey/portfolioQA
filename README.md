@@ -101,6 +101,14 @@ Princess Pomu and the five moons (spanish) (Docs):
 
 ### Trello
 
+Squirrel Stapler (standalone steam release):
+![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/98ddd6f1-0547-499d-83de-5c42e72c1bea)
+
+
+Little Scavenger (beta):
+![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/12fa1667-1bcb-4501-bd02-0ec1cafb73e8)
+
+
 
 
 
