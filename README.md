@@ -106,7 +106,8 @@ Squirrel Stapler (standalone steam release):
 
 
 Little Scavenger (beta):
-![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/12fa1667-1bcb-4501-bd02-0ec1cafb73e8)
+![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/40c4753e-358c-41a3-8a2e-dad8e4e68f4d)
+
 
 
 
