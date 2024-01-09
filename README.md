@@ -128,4 +128,10 @@ Excel number verifier:
 https://github.com/ChumaSuey/excelnumberverifier
 
 
+## Other work
 
+Game development - Quake modder (Level design and music):
+http://www.slipseer.com (search for Chuma)
+https://soundcloud.com/blood-instinct-688207837 (Blood Instinct band, formed by me and my friend Alphaent)
+* Trenchbroom / Blender.
+* FL Studio.
