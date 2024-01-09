@@ -133,6 +133,6 @@ https://github.com/ChumaSuey/excelnumberverifier
 Game development - Quake modder (Level design and music):
 - http://www.slipseer.com (search for Chuma)
 - https://soundcloud.com/blood-instinct-688207837 (Blood Instinct band, formed by me and my friend Alphaent)
-* Skills associated:
+Skills associated:
 - Trenchbroom / Blender.
 - FL Studio.
