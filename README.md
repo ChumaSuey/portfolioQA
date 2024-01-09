@@ -112,5 +112,20 @@ Little Scavenger (beta):
 
 * Python scripts (Automation and Web scraping)
 
+Google date form filler:
+https://github.com/ChumaSuey/googleformdateauto
+
+Wadcleaver GUI:
+https://github.com/ChumaSuey/wadcleavergui
+
+Website status checker:
+https://github.com/ChumaSuey/websitecheckerp
+
+QWDownloader:
+https://github.com/ChumaSuey/QWDownloader
+
+Excel number verifier:
+https://github.com/ChumaSuey/excelnumberverifier
+
 
 
