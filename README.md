@@ -133,7 +133,11 @@ https://github.com/ChumaSuey/excelnumberverifier
 Game development - Quake modder (Level design and music):
 - http://www.slipseer.com (search for Chuma)
 - https://soundcloud.com/blood-instinct-688207837 (Blood Instinct band, formed by me and my friend Alphaent)
+- Developer of RE:Mobilize mod (QA and Level design)
 
+Game development - QA Freelance of several indie videogames:
+reference in list :
+https://docs.google.com/document/d/1lQ1iIi-zK5cBqNNIzsxvIL9Yc9pu6-pxuoogTAfhTMg/edit?usp=sharing
 
 Skills associated:
 - Trenchbroom / Blender.
