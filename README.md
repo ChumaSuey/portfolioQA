@@ -38,7 +38,7 @@ Examples of my work on my "workshow case"
 * Can write complex sentences if required.
 
 **Python**
-* Intermediate knowledge in python focused in Automation and Web scraping.
+* Intermediate knowledge in python focused in Automation and Web scraping (Including Selenium with Python).
 
 
 ## Tools
