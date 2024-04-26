@@ -136,9 +136,10 @@ Game development - Quake modder (Level design and music):
 - Developer of RE:Mobilize mod (QA and Level design)
 
 Game development - QA Freelance of several indie videogames:
-reference in list :
+- Reference in list :
 https://docs.google.com/document/d/1lQ1iIi-zK5cBqNNIzsxvIL9Yc9pu6-pxuoogTAfhTMg/edit?usp=sharing
 
 Skills associated:
 - Trenchbroom / Blender.
 - FL Studio.
+- UDB and Slade. (for 2.5D Doom level design)
