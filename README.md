@@ -127,6 +127,9 @@ https://github.com/ChumaSuey/QWDownloader
 Excel number verifier:
 https://github.com/ChumaSuey/excelnumberverifier
 
+QTTC (Text converter):
+https://github.com/ChumaSuey/QTTC
+
 
 ## Other work
 
