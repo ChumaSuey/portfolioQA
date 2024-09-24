@@ -43,12 +43,13 @@ Examples of my work on my "workshow case"
 
 ## Tools
 * Trello and Notion.
-* Testrails
+* Testrails.
 * Jira.
 * QATouch.
 * Excel/Spreadsheets (Office in general).
 * Windows Snipping tool and OBS for bug replication.
 * Mind maps & diagram.
+* Obsidian MD.
 
 
 ## Courses and Education
@@ -56,7 +57,7 @@ Examples of my work on my "workshow case"
 
 ### Universidad Centro Occidental 'Lisandro Alvarado'
 * Bachelor of Engineering - BE - Computer Software Engineering (Ingenieria en informatica) (September 2013 - June 2023).
-* Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - present).
+* Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - September 2023). https://www.udemy.com/certificate/UC-cfd0299d-bab8-43d7-a71f-bcfb0b9c4456/ 
 
 ## Certificates
 * EF Set C2 English certification : https://www.efset.org/cert/PUY6Wp
@@ -64,6 +65,7 @@ Examples of my work on my "workshow case"
   - QA Manual: https://www.testdome.com/certificates/31f19ce57e18484fb680d8e405c5208b
   - Python: www.testdome.com/certificates/1ac60beccb694d0fa73b0ef69de41c40
   - SQL: https://www.testdome.com/certificates/8e8e08d62b95498ca1ab77763dc4bc07
+  - Javascript: www.testdome.com/certificates/56705cc7d2e541d780f8588e3dd77dc1
 
 ## Examples of my work
 
@@ -86,7 +88,6 @@ Playtested every custom level for Quake 2 in the most famous database, i classif
 
 ### Drive reports
 Each folder represents a version and there are some videos in OBS me replicating the bug in spanish and english.
-
 
 Octonata (development paused):
 https://drive.google.com/drive/folders/18MOvRAoH1VX-rseVb5fVrYEnUtqrB3T7?usp=sharing
