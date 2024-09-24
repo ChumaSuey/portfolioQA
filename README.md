@@ -57,7 +57,7 @@ Examples of my work on my "workshow case"
 
 ### Universidad Centro Occidental 'Lisandro Alvarado'
 * Bachelor of Engineering - BE - Computer Software Engineering (Ingenieria en informatica) (September 2013 - June 2023).
-* Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - September 2023). https://www.udemy.com/certificate/UC-cfd0299d-bab8-43d7-a71f-bcfb0b9c4456/ 
+* Software Testing bootcamp by Nezam Academy (Tarek Roshdi) (May 2023 - September 2024). https://www.udemy.com/certificate/UC-cfd0299d-bab8-43d7-a71f-bcfb0b9c4456/ 
 
 ## Certificates
 * EF Set C2 English certification : https://www.efset.org/cert/PUY6Wp
