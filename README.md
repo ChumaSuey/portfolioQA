@@ -10,7 +10,7 @@ I'm also curious on how to improve my manual testing skills and gathering knowle
 
 ## CV
 
-Download my CV as a PDF file here: https://drive.google.com/file/d/1NLJILr0fnrk2Tr7ri7r-MxhLcL4JcniW/view?usp=sharing
+Download my CV as a PDF file here: https://drive.google.com/file/d/1xpLn1XbiEnQCkTPE9A_u5T3eIwazZblO/view?usp=sharing
 
 ## Skills
 
