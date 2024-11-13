@@ -102,9 +102,11 @@ Princess Pomu and the five moons (spanish) (Docs):
 
 ### Trello
 
+Butcher's Creek (Public and Testing Demo branch):
+![image](https://github.com/user-attachments/assets/cd91ada6-6093-423f-af14-f3b376ced84f)
+
 Squirrel Stapler (standalone steam release):
 ![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/98ddd6f1-0547-499d-83de-5c42e72c1bea)
-
 
 Little Scavenger (beta):
 ![image](https://github.com/ChumaSuey/portfolioQA/assets/3680154/40c4753e-358c-41a3-8a2e-dad8e4e68f4d)
@@ -131,6 +133,13 @@ https://github.com/ChumaSuey/excelnumberverifier
 QTTC (Text converter):
 https://github.com/ChumaSuey/QTTC
 
+Radio listener (Done in Selenium and Playwright)
+https://github.com/ChumaSuey/Autoradiolistener/
+
+* Javascript scripts (Automation and Web scraping)
+
+Radio Listener (Javascript version)
+https://github.com/ChumaSuey/Autoradiolistener/blob/master/Radiolistener.js
 
 ## Other work
 
