@@ -1,4 +1,4 @@
-# portfolioQA
+# QA Portfolio
 Portfolio work of Luis Fernandez a.k.a Chuma
 Software and videogames QA Engineer
 
