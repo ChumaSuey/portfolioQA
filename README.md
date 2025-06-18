@@ -153,10 +153,12 @@ Game development - QA Freelance of several indie videogames:
 - Reference in list :
 https://docs.google.com/document/d/1lQ1iIi-zK5cBqNNIzsxvIL9Yc9pu6-pxuoogTAfhTMg/edit?usp=sharing
 
-Game Development - Collaborator and Social Media manager at Skillmaster.
+Game Development - Social Media manager at Skillmaster.
 
 
-Skills associated:
-- Trenchbroom / Blender.
+Software used:
+- Trenchbroom.
 - FL Studio.
 - UDB and Slade. (for 2.5D Doom level design)
+- GiMP.
+- Blender.
