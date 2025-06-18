@@ -41,6 +41,8 @@ Examples of my work on my "workshow case"
 **Python**
 * Intermediate knowledge in python focused in Automation and Web scraping (Including Selenium with Python).
 
+**Javascript**
+* Intermediate knowledge in Javascript focused in Automation and Web scraping (Including playwright).
 
 ## Tools
 * Trello and Notion.
