@@ -155,6 +155,12 @@ https://docs.google.com/document/d/1lQ1iIi-zK5cBqNNIzsxvIL9Yc9pu6-pxuoogTAfhTMg/
 
 Game Development - Social Media manager at Skillmaster.
 
+Skills used (related to QA and Programming):
+- Documentation.
+- Scripting and Programming.
+- Workflow organization.
+- Art and Music theory 
+
 
 Software used:
 - Trenchbroom.
@@ -162,3 +168,4 @@ Software used:
 - UDB and Slade. (for 2.5D Doom level design)
 - GiMP.
 - Blender.
+- Discord.
