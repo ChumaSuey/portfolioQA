@@ -70,7 +70,7 @@ Examples of my work on my "workshow case"
 
 ## Examples of my work
 
-* Test cases
+## Test cases
 
 Test cases for Aurora team (Made in Spanish) 
 https://drive.google.com/drive/folders/1flXE1eAynGF3LE-kVVvMDGZsK5TcfUct?usp=drive_link
@@ -85,7 +85,7 @@ https://docs.google.com/spreadsheets/d/16i7hU1vT-_k6SWPZdEpwHKtkzYj15Tv5rH6sgtSN
 
 Playtested every custom level for Quake 2 in the most famous database, i classified them with spreadsheets and got the best for our server.
 
-* Bug report for videogames
+## Bug report for videogames
 
 ### Drive reports
 Each folder represents a version and there are some videos in OBS me replicating the bug in spanish and english.
