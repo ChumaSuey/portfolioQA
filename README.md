@@ -139,6 +139,12 @@ https://github.com/ChumaSuey/Autoradiolistener/
 Radio Listener (Javascript version)
 https://github.com/ChumaSuey/Autoradiolistener/blob/master/Radiolistener.js
 
+FGD Schema Builder (React)
+https://github.com/ChumaSuey/FGDSchemaBuilder
+
+FGD Parser
+https://github.com/ChumaSuey/csvfgdparser
+
 ## Other work
 
 Game development - Quake modder (Level design and music):
