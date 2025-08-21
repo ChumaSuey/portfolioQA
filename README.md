@@ -9,7 +9,7 @@ A dedicated Manual QA Engineer with a knack for finding bugs and enhancing softw
 
 ## CV
 
-Download my CV as a PDF file here: https://drive.google.com/file/d/1xpLn1XbiEnQCkTPE9A_u5T3eIwazZblO/view?usp=sharing
+Download my CV as a PDF file here: [https://drive.google.com/file/d/1xpLn1XbiEnQCkTPE9A_u5T3eIwazZblO/view?usp=sharing](https://drive.google.com/file/d/1W2cBRiprQd1pMDbrQivwTtSj48K71MXl/view?usp=sharing)
 
 ## Skills
 
