@@ -114,7 +114,7 @@ Little Scavenger (beta):
 
 
 
-* Python scripts (Automation and Web scraping)
+### Python scripts (Automation and Web scraping)
 
 Google date form filler:
 https://github.com/ChumaSuey/googleformdateauto
@@ -134,7 +134,7 @@ https://github.com/ChumaSuey/QTTC
 Radio listener (Done in Selenium and Playwright)
 https://github.com/ChumaSuey/Autoradiolistener/
 
-* Javascript scripts (Automation and Web scraping)
+### Javascript scripts (Automation and Web scraping)
 
 Radio Listener (Javascript version)
 https://github.com/ChumaSuey/Autoradiolistener/blob/master/Radiolistener.js
