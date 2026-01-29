@@ -138,19 +138,22 @@ https://github.com/ChumaSuey/QWDownloader
 QTTC (Text converter):
 https://github.com/ChumaSuey/QTTC
 
-Radio listener (Done in Selenium and Playwright)
+Radio listener (Selenium)
 https://github.com/ChumaSuey/Autoradiolistener/
 
 ### Javascript scripts (Automation and Web scraping)
 
-Radio Listener (Javascript version)
+Radio Listener (Playwright version)
 https://github.com/ChumaSuey/Autoradiolistener/blob/master/Radiolistener.js
 
 FGD Schema Builder (React)
 https://github.com/ChumaSuey/FGDSchemaBuilder
 
-FGD Parser
+FGD Parser (React)
 [https://github.com/ChumaSuey/csvfgdparser](https://github.com/ChumaSuey/csvfgdparser/tree/ReactV4.0)
+
+Google date form filler (Playwright version)
+https://github.com/ChumaSuey/googleformdateauto/blob/main/gfdauto.js
 
 ## Other work
 
