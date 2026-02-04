@@ -155,6 +155,9 @@ FGD Parser (React)
 Google date form filler (Playwright version)
 https://github.com/ChumaSuey/googleformdateauto/blob/main/gfdauto.js
 
+PC Gamer Most Commented Article Finder (Playwright)
+https://github.com/ChumaSuey/fmcarticleplaywright
+
 ## Other work
 
 Game development - Quake modder (Level design and music):
