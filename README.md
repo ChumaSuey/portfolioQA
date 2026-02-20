@@ -5,7 +5,7 @@ Software and videogames QA Engineer
 
 ## About me
 
-A dedicated Manual QA Engineer with a knack for finding bugs and enhancing software quality. Experienced in manual and exploratory testing, including AI and video games. I am always seeking new ways to improve my skills and learn more about automation.
+QA Engineer skilled in identifying and documenting bugs to enhance software quality. Experienced in A.I. and video game testing, with a technical background in Python and JavaScript for developing testing scripts and automation logic.
 
 ## CV
 
