@@ -67,6 +67,8 @@ Examples of my work on my "workshow case"
   - Python: www.testdome.com/certificates/1ac60beccb694d0fa73b0ef69de41c40
   - SQL: https://www.testdome.com/certificates/8e8e08d62b95498ca1ab77763dc4bc07
   - Javascript: www.testdome.com/certificates/56705cc7d2e541d780f8588e3dd77dc1
+  - Go/Golang: https://www.testdome.com/certificates/6718b82d55bc4d65861b621d0cc02655
+  - C#: https://www.testdome.com/certificates/e57afdf2731b48a89ad019397b596aca
 
 ## Examples of my work
 
