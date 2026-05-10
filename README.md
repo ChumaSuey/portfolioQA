@@ -154,7 +154,7 @@ https://github.com/ChumaSuey/FGDSchemaBuilder
 https://fgdschemabuilder.onrender.com (main site)
 
 FGD Parser (React)
-[https://github.com/ChumaSuey/csvfgdparser](https://github.com/ChumaSuey/csvfgdparser/tree/ReactV4.0)
+[https://github.com/ChumaSuey/csvfgdparser](https://github.com/ChumaSuey/csvfgdparser)
 
 Google date form filler (Playwright version)
 https://github.com/ChumaSuey/googleformdateauto/blob/main/gfdauto.js
